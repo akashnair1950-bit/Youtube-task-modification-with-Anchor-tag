@@ -1,0 +1,128 @@
+body{
+	margin:0px;
+	padding:0px;
+}
+a{
+	color:black;
+	text-decoration:none;
+}
+.nav{
+	border-bottom:1px solid black;
+	height:50px;
+	padding:0px 16px;
+	width:97.9%;
+}
+.float{
+	float:left;
+}
+.navleft p{
+	margin-top:11px;
+}
+.navleft img{
+	height:30px;
+	padding:10px 5px;	
+}
+.bor{
+	border-radius:20px;
+	border:1px solid black;
+}
+.navcenter{
+	margin:5px 0px 0px 20%;
+	height:40px;
+	width:40%;
+}
+.navc1{
+	padding:10px;
+	width:50px;
+}
+.navc2{	
+	margin:2px 10px;
+	width:35px;
+	height:32px;
+	float:right;
+}
+.navright{
+	float:right;
+	height:50px;
+	width:250px;
+}
+.but{
+	margin:5px;
+	padding:10px 15px;
+}
+.noti{
+	height:25px;
+	margin:10px 0px 10px 30px;
+}	
+.side{
+	border-right:1px solid black;
+	height:100vh;
+	width:70px;
+}
+.sih{
+	margin-top:20px;
+}
+.sii{
+	height:30px;
+	padding:10px 0px 0px 20px;
+}
+.sip{
+	margin:0px;
+	padding-left:17px;
+}
+.profile{
+	width:95.3%;
+}
+.profileimg{
+	height:90px;
+	border-radius:50px;
+}
+.spadding{
+	background-color:gray;
+	margin-left:15px;
+}
+.main{
+	margin-left:5%;
+	width:95%;
+	height:750px;
+}
+.mainsu{
+	width:100%;
+	height:40px;
+}
+.spa2{
+	border-radius:10px;
+	padding:5px;
+	margin:10px 0px 0px 20px;
+	background-color:gray;
+}
+.box1{
+	height:370px;
+	margin-top:20px;
+}
+.boxa1{
+	height:230px;
+	width:315px;
+	margin:10px 14px;
+}
+.boxa1 p{
+	margin:0px;
+	padding-left:10px;
+}
+.boximg{
+	margin:5px;
+	width:300px;
+}
+.boxb1{
+	height:450px;
+	margin:5px 5px;
+}	
+.prfimg1{
+	border-radius:50px;
+	margin:5px;
+	height:35px;
+	float:left;
+}
+.boximg2{
+	height:400px;
+}
